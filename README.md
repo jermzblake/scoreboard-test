@@ -10,6 +10,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python convert.py
 # → output.json
+deactivate # To restore your shell's PATH back to normal when done
 ```
 
 ## JSON shape
