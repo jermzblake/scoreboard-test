@@ -1,0 +1,6 @@
+# input files to ignore
+Scoreboard Test.xlsx
+# virtual environment and Python cache files to ignore
+.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,2632 @@
+{
+  "SCOREBOARD": {
+    "metadata": {
+      "sheet_name": "SCOREBOARD",
+      "header_depth": 7,
+      "raw_row_count": 10,
+      "raw_column_count": 142,
+      "raw_non_empty_cells": 605,
+      "source_data_non_empty_cells": 184,
+      "converted_non_empty_cells": 184,
+      "dropped_spacer_rows": 0,
+      "integrity_ratio": 1.0,
+      "grouped_headers": [
+        {
+          "header": "PHONE PERFORMANCE",
+          "excel_range": "AJ1:AP1",
+          "start_column_index": 35,
+          "end_column_index": 41,
+          "start_column": "AJ",
+          "end_column": "AP",
+          "column_count": 7
+        }
+      ]
+    },
+    "rows": [
+      {
+        "_source_row": 8,
+        "date": "2026-02-16T00:00:00",
+        "metrics": {
+          "Total Revenue - All Services": 40454.28,
+          "Total Payments - All Services": 48464.61,
+          "Revenue Collected (4 wk avg)": 1.00441053,
+          "AR > 90 days": 0.0,
+          "Total AR": 56578.43,
+          "Online Bookings Via Jane": 36.0,
+          "Total Ax - All Services": 42.0,
+          "Ax 4 Week Avg": 50.66666667,
+          "# of Rx (Clinic Wide)": 377,
+          "Clinic PVA": 7.440789474,
+          "CROSS REFERRAL AX (Total)": 498.0,
+          "Submitted": 498.0,
+          "Unsubmitted": 100.0,
+          "Cancelled Total Ax": 14.0,
+          "Cancelled Ax (Online)": 0.0,
+          "Cancelled Ax Online %": 0.0,
+          "Cancellation %": 0.1707317073,
+          "# of Fall Offs (Total)": null,
+          "FB Reviews": null,
+          "Google Reviews": 1227.0,
+          "Total Calls (5530)": 255.0,
+          "Missed Calls": 17.0,
+          "Answer Rate": 0.93,
+          "Booking Rate": 0.69,
+          "NBO": 26.0,
+          "DNB": 8.0,
+          "Winback (Ax Only)": 0.0,
+          "NAR Collected at Ax": 39.0,
+          "NAR % Collected at Ax": 0.9285714286,
+          "Average Prescribed": "2.87",
+          "Booked:Prescribed % (Total)": 0.5357142857,
+          "# of Tx Plan Given": 20.0,
+          "% Tx Plan Used": 0.4761904762,
+          "PT Total Revenue": null,
+          "PT Ax": null,
+          "PT Tx": null,
+          "PT AHS Ax": null,
+          "% of Total Ax (AHS)": null,
+          "PT AHS Tx (Total)": null,
+          "PT AHS Ax (Hip&Knee Class)": null,
+          "PT AHS Tx (Hip&Knee Class)": null,
+          "PVA (4 wk avg)": null,
+          "PT Total Available Hours (Total)": null,
+          "PT Total Available Hours (PT only)": null,
+          "PT Total BOOKED hours": null,
+          "PT Arrived appts": null,
+          "Utilization (With Kines)": null,
+          "Utilization (Without Kines)": null,
+          "PT TP Given": null,
+          "TP Utilization": null,
+          "RMT Total Revenue": null,
+          "RMT Ax": null,
+          "RMT Tx": null,
+          "PVA (4 wk avg)_2": null,
+          "RMT Hours Available": null,
+          "RMT BOOKED hours": null,
+          "RMT Arrived slots": null,
+          "Utilization": null,
+          "RMT TP Given": null,
+          "TP Utilization_2": null,
+          "CHIRO Total Revenue": null,
+          "CHIRO Ax": null,
+          "CHIRO Tx": null,
+          "PVA (4 wk avg)_3": null,
+          "Chiro Hours Available": null,
+          "Chiro BOOKED hours": null,
+          "CHIRO Arrived slots": null,
+          "Utilization_2": null,
+          "CHIRO TP Given": null,
+          "TP Utilization_3": null,
+          "Pelvic Health Total Revenue": null,
+          "Pelvic Health Ax": null,
+          "Pelvic Health Tx": null,
+          "PVA (4 wk avg)_4": null,
+          "True PVA Average": null,
+          "Utilization_3": null
+        }
+      },
+      {
+        "_source_row": 9,
+        "date": "2026-02-09T00:00:00",
+        "metrics": {
+          "Total Revenue - All Services": 42360.64,
+          "Total Payments - All Services": 34022.04,
+          "Revenue Collected (4 wk avg)": 0.9083875359,
+          "AR > 90 days": 182.0,
+          "Total AR": 65386.72,
+          "Online Bookings Via Jane": 45.0,
+          "Total Ax - All Services": 54.0,
+          "Ax 4 Week Avg": 55,
+          "# of Rx (Clinic Wide)": 377,
+          "Clinic PVA": 6.854545455,
+          "CROSS REFERRAL AX (Total)": null,
+          "Submitted": 669.0,
+          "Unsubmitted": 129.0,
+          "Cancelled Total Ax": 8.0,
+          "Cancelled Ax (Online)": 0.0,
+          "Cancelled Ax Online %": 0.0,
+          "Cancellation %": 0.1149897331,
+          "# of Fall Offs (Total)": 113.0,
+          "FB Reviews": 0.0,
+          "Google Reviews": 1224.0,
+          "Total Calls (5530)": 281.0,
+          "Missed Calls": 15.0,
+          "Answer Rate": 0.94,
+          "Booking Rate": 0.73,
+          "NBO": 26.0,
+          "DNB": 7.0,
+          "Winback (Ax Only)": 0.0,
+          "NAR Collected at Ax": 56.0,
+          "NAR % Collected at Ax": 1.037037037,
+          "Average Prescribed": "3.26",
+          "Booked:Prescribed % (Total)": 0.5433526012,
+          "# of Tx Plan Given": 30.0,
+          "% Tx Plan Used": 0.5555555556,
+          "PT Total Revenue": 36099.38,
+          "PT Ax": 47.0,
+          "PT Tx": 319,
+          "PT AHS Ax": 10.0,
+          "% of Total Ax (AHS)": 0.2127659574,
+          "PT AHS Tx (Total)": 37.0,
+          "PT AHS Ax (Hip&Knee Class)": 5.0,
+          "PT AHS Tx (Hip&Knee Class)": 5.0,
+          "PVA (4 wk avg)": 6.434782609,
+          "PT Total Available Hours (Total)": 290.25,
+          "PT Total Available Hours (PT only)": 172.5,
+          "PT Total BOOKED hours": 166.75,
+          "PT Arrived appts": 382.0,
+          "Utilization (With Kines)": 0.5745047373,
+          "Utilization (Without Kines)": 0.9666666667,
+          "PT TP Given": 30.0,
+          "TP Utilization": 0.6382978723,
+          "RMT Total Revenue": 355.0,
+          "RMT Ax": 1.0,
+          "RMT Tx": 2.0,
+          "PVA (4 wk avg)_2": 2.333333333,
+          "RMT Hours Available": 3.75,
+          "RMT BOOKED hours": 4.0,
+          "RMT Arrived slots": 3.0,
+          "Utilization": 1.066666667,
+          "RMT TP Given": 0.0,
+          "TP Utilization_2": 0.0,
+          "CHIRO Total Revenue": 4458.9,
+          "CHIRO Ax": 4.0,
+          "CHIRO Tx": 48,
+          "PVA (4 wk avg)_3": 10.2,
+          "Chiro Hours Available": 28.25,
+          "Chiro BOOKED hours": 25.25,
+          "CHIRO Arrived slots": 55.0,
+          "Utilization_2": 0.8938053097,
+          "CHIRO TP Given": 0.0,
+          "TP Utilization_3": 0.0,
+          "Pelvic Health Total Revenue": 2355.0,
+          "Pelvic Health Ax": 2.0,
+          "Pelvic Health Tx": 17.0,
+          "PVA (4 wk avg)_4": 1.5,
+          "True PVA Average": 6.522522523,
+          "Utilization_3": 0.8449922379
+        }
+      },
+      {
+        "_source_row": 10,
+        "date": "2026-02-02T00:00:00",
+        "metrics": {
+          "Total Revenue - All Services": 39202.17,
+          "Total Payments - All Services": 40068.6,
+          "Revenue Collected (4 wk avg)": 1.022101583,
+          "AR > 90 days": 60.0,
+          "Total AR": 57239.65,
+          "Online Bookings Via Jane": 43.0,
+          "Total Ax - All Services": 56.0,
+          "Ax 4 Week Avg": 56,
+          "# of Rx (Clinic Wide)": 340,
+          "Clinic PVA": 6.071428571,
+          "CROSS REFERRAL AX (Total)": null,
+          "Submitted": 599.0,
+          "Unsubmitted": 44.0,
+          "Cancelled Total Ax": 9.0,
+          "Cancelled Ax (Online)": 0.0,
+          "Cancelled Ax Online %": 0.0,
+          "Cancellation %": 0.1236203091,
+          "# of Fall Offs (Total)": 103.0,
+          "FB Reviews": 0.0,
+          "Google Reviews": 1217.0,
+          "Total Calls (5530)": 282.0,
+          "Missed Calls": 16.0,
+          "Answer Rate": 0.94,
+          "Booking Rate": 0.78,
+          "NBO": 33.0,
+          "DNB": 7.0,
+          "Winback (Ax Only)": 2.0,
+          "NAR Collected at Ax": 56.0,
+          "NAR % Collected at Ax": 1,
+          "Average Prescribed": "3.35",
+          "Booked:Prescribed % (Total)": 0.5303867403,
+          "# of Tx Plan Given": 38.0,
+          "% Tx Plan Used": 0.6785714286,
+          "PT Total Revenue": 30394.0,
+          "PT Ax": 45.0,
+          "PT Tx": 273,
+          "PT AHS Ax": 11.0,
+          "% of Total Ax (AHS)": 0.2444444444,
+          "PT AHS Tx (Total)": 37.0,
+          "PT AHS Ax (Hip&Knee Class)": 2.0,
+          "PT AHS Tx (Hip&Knee Class)": 6.0,
+          "PVA (4 wk avg)": 6.066666667,
+          "PT Total Available Hours (Total)": 273.5,
+          "PT Total Available Hours (PT only)": 139.25,
+          "PT Total BOOKED hours": 138.0,
+          "PT Arrived appts": 329.0,
+          "Utilization (With Kines)": 0.5045703839,
+          "Utilization (Without Kines)": 0.9910233393,
+          "PT TP Given": 38.0,
+          "TP Utilization": 0.8444444444,
+          "RMT Total Revenue": 775.5,
+          "RMT Ax": 2.0,
+          "RMT Tx": 5.0,
+          "PVA (4 wk avg)_2": 2.5,
+          "RMT Hours Available": 8,
+          "RMT BOOKED hours": 8.75,
+          "RMT Arrived slots": 7.0,
+          "Utilization": 1.09375,
+          "RMT TP Given": 0.0,
+          "TP Utilization_2": 0.0,
+          "CHIRO Total Revenue": 5649.9,
+          "CHIRO Ax": 6.0,
+          "CHIRO Tx": 54,
+          "PVA (4 wk avg)_3": 9,
+          "Chiro Hours Available": 35.25,
+          "Chiro BOOKED hours": 30.75,
+          "CHIRO Arrived slots": 62.0,
+          "Utilization_2": 0.8723404255,
+          "CHIRO TP Given": 0.0,
+          "TP Utilization_3": 0.0,
+          "Pelvic Health Total Revenue": 1215.0,
+          "Pelvic Health Ax": 4.0,
+          "Pelvic Health Tx": 6.0,
+          "PVA (4 wk avg)_4": "#REF!",
+          "True PVA Average": 5.929824561,
+          "Utilization_3": 0.8235536031
+        }
+      }
+    ],
+    "columns": [
+      {
+        "field_name": "Date",
+        "display_name": "Date",
+        "header_path": [
+          "Date"
+        ],
+        "source_column_index": 0,
+        "metric_label": "Date",
+        "category": null,
+        "focus": null,
+        "source": null,
+        "role": null,
+        "qualifiers": []
+      },
+      {
+        "field_name": "Total_Revenue_All_Services__focus_Financial__source_EMR__role_J__Target",
+        "display_name": "Total Revenue - All Services > focus=Financial > source=EMR > role=J > Target",
+        "header_path": [
+          "Total Revenue - All Services",
+          "focus=Financial",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 1,
+        "metric_label": "Total Revenue - All Services",
+        "category": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Total_Payments_All_Services__focus_Collection__source_EMR__role_J__Target",
+        "display_name": "Total Payments - All Services > focus=Collection > source=EMR > role=J > Target",
+        "header_path": [
+          "Total Payments - All Services",
+          "focus=Collection",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 7,
+        "metric_label": "Total Payments - All Services",
+        "category": null,
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Revenue_Collected_4_wk_avg__focus_Collection__source_Ratio__role_J__Target",
+        "display_name": "Revenue Collected (4 wk avg) > focus=Collection > source=Ratio > role=J > Target",
+        "header_path": [
+          "Revenue Collected (4 wk avg)",
+          "focus=Collection",
+          "source=Ratio",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 8,
+        "metric_label": "Revenue Collected (4 wk avg)",
+        "category": null,
+        "focus": "Collection",
+        "source": "Ratio",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "AR_90_days__focus_Collection__source_EMR__role_J__Target",
+        "display_name": "AR > 90 days > focus=Collection > source=EMR > role=J > Target",
+        "header_path": [
+          "AR > 90 days",
+          "focus=Collection",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 9,
+        "metric_label": "AR > 90 days",
+        "category": null,
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Total_AR__focus_Collection__source_EMR__role_J__Target",
+        "display_name": "Total AR > focus=Collection > source=EMR > role=J > Target",
+        "header_path": [
+          "Total AR",
+          "focus=Collection",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 10,
+        "metric_label": "Total AR",
+        "category": null,
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Online_Bookings_Via_Jane__focus_Bookings__source_EMR__role_J__Target",
+        "display_name": "Online Bookings Via Jane > focus=Bookings > source=EMR > role=J > Target",
+        "header_path": [
+          "Online Bookings Via Jane",
+          "focus=Bookings",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 11,
+        "metric_label": "Online Bookings Via Jane",
+        "category": null,
+        "focus": "Bookings",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Total_Ax_All_Services__focus_Marketing__source_EMR__role_J__Target",
+        "display_name": "Total Ax - All Services > focus=Marketing > source=EMR > role=J > Target",
+        "header_path": [
+          "Total Ax - All Services",
+          "focus=Marketing",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 14,
+        "metric_label": "Total Ax - All Services",
+        "category": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Ax_4_Week_Avg__focus_Marketing__source_GS__role_J__Target",
+        "display_name": "Ax 4 Week Avg > focus=Marketing > source=GS > role=J > Target",
+        "header_path": [
+          "Ax 4 Week Avg",
+          "focus=Marketing",
+          "source=GS",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 15,
+        "metric_label": "Ax 4 Week Avg",
+        "category": null,
+        "focus": "Marketing",
+        "source": "GS",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "of_Rx_Clinic_Wide__focus_Caseload__source_EMR__role_J__Target",
+        "display_name": "# of Rx (Clinic Wide) > focus=Caseload > source=EMR > role=J > Target",
+        "header_path": [
+          "# of Rx (Clinic Wide)",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 16,
+        "metric_label": "# of Rx (Clinic Wide)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Clinic_PVA__focus_Caseload__source_EMR__role_J__Target",
+        "display_name": "Clinic PVA > focus=Caseload > source=EMR > role=J > Target",
+        "header_path": [
+          "Clinic PVA",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 17,
+        "metric_label": "Clinic PVA",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "CROSS_REFERRAL_AX_Total__focus_Caseload__source_NAR__role_Nicole__Target_2",
+        "display_name": "CROSS REFERRAL AX (Total) > focus=Caseload > source=NAR > role=Nicole > Target",
+        "header_path": [
+          "CROSS REFERRAL AX (Total)",
+          "focus=Caseload",
+          "source=NAR",
+          "role=Nicole",
+          "Target"
+        ],
+        "source_column_index": 20,
+        "metric_label": "CROSS REFERRAL AX (Total)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "NAR",
+        "role": "Nicole",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Submitted__focus_Treatment_Plan__source_Jane__role_J__Target",
+        "display_name": "Submitted > focus=Treatment Plan > source=Jane > role=J > Target",
+        "header_path": [
+          "Submitted",
+          "focus=Treatment Plan",
+          "source=Jane",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 21,
+        "metric_label": "Submitted",
+        "category": null,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Unsubmitted__focus_Treatment_Plan__source_Jane__role_J__Target",
+        "display_name": "Unsubmitted > focus=Treatment Plan > source=Jane > role=J > Target",
+        "header_path": [
+          "Unsubmitted",
+          "focus=Treatment Plan",
+          "source=Jane",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 22,
+        "metric_label": "Unsubmitted",
+        "category": null,
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Cancelled_Total_Ax__focus_New_Clients__source_EMR__role_J__Target",
+        "display_name": "Cancelled Total Ax > focus=New Clients > source=EMR > role=J > Target",
+        "header_path": [
+          "Cancelled Total Ax",
+          "focus=New Clients",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 24,
+        "metric_label": "Cancelled Total Ax",
+        "category": null,
+        "focus": "New Clients",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Cancelled_Ax_Online__focus_Online__source_EMR__role_J__Target",
+        "display_name": "Cancelled Ax (Online) > focus=Online > source=EMR > role=J > Target",
+        "header_path": [
+          "Cancelled Ax (Online)",
+          "focus=Online",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 25,
+        "metric_label": "Cancelled Ax (Online)",
+        "category": null,
+        "focus": "Online",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Cancelled_Ax_Online__focus_Online__source_EMR__role_J__Target_2",
+        "display_name": "Cancelled Ax Online % > focus=Online > source=EMR > role=J > Target",
+        "header_path": [
+          "Cancelled Ax Online %",
+          "focus=Online",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 26,
+        "metric_label": "Cancelled Ax Online %",
+        "category": null,
+        "focus": "Online",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Cancellation__focus_Caseload__source_EMR__role_J__Target",
+        "display_name": "Cancellation % > focus=Caseload > source=EMR > role=J > Target",
+        "header_path": [
+          "Cancellation %",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 28,
+        "metric_label": "Cancellation %",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "of_Fall_Offs_Total__focus_Caseload__source_EMR__role_J__Target",
+        "display_name": "# of Fall Offs (Total) > focus=Caseload > source=EMR > role=J > Target",
+        "header_path": [
+          "# of Fall Offs (Total)",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 29,
+        "metric_label": "# of Fall Offs (Total)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "FB_Reviews__focus_Marketing__source_Facebook__role_J__Target",
+        "display_name": "FB Reviews > focus=Marketing > source=Facebook > role=J > Target",
+        "header_path": [
+          "FB Reviews",
+          "focus=Marketing",
+          "source=Facebook",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 32,
+        "metric_label": "FB Reviews",
+        "category": null,
+        "focus": "Marketing",
+        "source": "Facebook",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "Google_Reviews__focus_Marketing__source_Google__role_J__Target",
+        "display_name": "Google Reviews > focus=Marketing > source=Google > role=J > Target",
+        "header_path": [
+          "Google Reviews",
+          "focus=Marketing",
+          "source=Google",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 33,
+        "metric_label": "Google Reviews",
+        "category": null,
+        "focus": "Marketing",
+        "source": "Google",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Total_Calls_5530__focus_Phone__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > Total Calls (5530) > focus=Phone > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Total Calls (5530)",
+          "focus=Phone",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 35,
+        "metric_label": "Total Calls (5530)",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Missed_Calls__focus_Phone__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > Missed Calls > focus=Phone > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Missed Calls",
+          "focus=Phone",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 36,
+        "metric_label": "Missed Calls",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Answer_Rate__focus_Answer__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > Answer Rate > focus=Answer > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Answer Rate",
+          "focus=Answer",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 37,
+        "metric_label": "Answer Rate",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Answer",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Booking_Rate__focus_Book__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > Booking Rate > focus=Book > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Booking Rate",
+          "focus=Book",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 38,
+        "metric_label": "Booking Rate",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Book",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__NBO__focus_Phone__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > NBO > focus=Phone > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "NBO",
+          "focus=Phone",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 39,
+        "metric_label": "NBO",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__DNB__focus_Phone__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > DNB > focus=Phone > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "DNB",
+          "focus=Phone",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 40,
+        "metric_label": "DNB",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Winback_Ax_Only__focus_Phone__source_CallHero__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > Winback (Ax Only) > focus=Phone > source=CallHero > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Winback (Ax Only)",
+          "focus=Phone",
+          "source=CallHero",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 41,
+        "metric_label": "Winback (Ax Only)",
+        "category": "PHONE PERFORMANCE",
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__NAR_Collected_at_Ax__focus_Tx_Plan__source_NAR__role_J__Target",
+        "display_name": "PHONE PERFORMANCE > NAR Collected at Ax > focus=Tx Plan > source=NAR > role=J > Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "NAR Collected at Ax",
+          "focus=Tx Plan",
+          "source=NAR",
+          "role=J",
+          "Target"
+        ],
+        "source_column_index": 43,
+        "metric_label": "NAR Collected at Ax",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__NAR_Collected_at_Ax__focus_Tx_Plan__source_Formula__role_J__Target__100_Target",
+        "display_name": "PHONE PERFORMANCE > NAR % Collected at Ax > focus=Tx Plan > source=Formula > role=J > Target > 100% Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "NAR % Collected at Ax",
+          "focus=Tx Plan",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "100% Target"
+        ],
+        "source_column_index": 44,
+        "metric_label": "NAR % Collected at Ax",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "100% Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Average_Prescribed__focus_Tx_Plan__source_NAR__role_J__Target__100_Target",
+        "display_name": "PHONE PERFORMANCE > Average Prescribed > focus=Tx Plan > source=NAR > role=J > Target > 100% Target",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Average Prescribed",
+          "focus=Tx Plan",
+          "source=NAR",
+          "role=J",
+          "Target",
+          "100% Target"
+        ],
+        "source_column_index": 45,
+        "metric_label": "Average Prescribed",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "100% Target"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Booked_Prescribed_Total__focus_Tx_Plan__source_Formula__role_J__Target__Target_75",
+        "display_name": "PHONE PERFORMANCE > Booked:Prescribed % (Total) > focus=Tx Plan > source=Formula > role=J > Target > Target = 75%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Booked:Prescribed % (Total)",
+          "focus=Tx Plan",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 75%"
+        ],
+        "source_column_index": 46,
+        "metric_label": "Booked:Prescribed % (Total)",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 75%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__of_Tx_Plan_Given__focus_Tx_Plan__source_NAR__role_J__Target__Target_75",
+        "display_name": "PHONE PERFORMANCE > # of Tx Plan Given > focus=Tx Plan > source=NAR > role=J > Target > Target = 75%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "# of Tx Plan Given",
+          "focus=Tx Plan",
+          "source=NAR",
+          "role=J",
+          "Target",
+          "Target = 75%"
+        ],
+        "source_column_index": 47,
+        "metric_label": "# of Tx Plan Given",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 75%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Tx_Plan_Used__focus_Tx_Plan__source_NAR__role_J__Target__Target_80",
+        "display_name": "PHONE PERFORMANCE > % Tx Plan Used > focus=Tx Plan > source=NAR > role=J > Target > Target = 80%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "% Tx Plan Used",
+          "focus=Tx Plan",
+          "source=NAR",
+          "role=J",
+          "Target",
+          "Target = 80%"
+        ],
+        "source_column_index": 48,
+        "metric_label": "% Tx Plan Used",
+        "category": null,
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 80%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Total_Revenue__focus_Financial__source_EMR__role_J__Target__Target_80",
+        "display_name": "PHONE PERFORMANCE > PT Total Revenue > focus=Financial > source=EMR > role=J > Target > Target = 80%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Total Revenue",
+          "focus=Financial",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Target = 80%"
+        ],
+        "source_column_index": 87,
+        "metric_label": "PT Total Revenue",
+        "category": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 80%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Ax__focus_Marketing__source_EMR__role_J__Target__Formula",
+        "display_name": "PHONE PERFORMANCE > PT Ax > focus=Marketing > source=EMR > role=J > Target > Formula",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Ax",
+          "focus=Marketing",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Formula"
+        ],
+        "source_column_index": 88,
+        "metric_label": "PT Ax",
+        "category": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Formula"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Tx__focus_Commitment__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > PT Tx > focus=Commitment > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Tx",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 89,
+        "metric_label": "PT Tx",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_AHS_Ax__focus_AHS__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > PT AHS Ax > focus=AHS > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT AHS Ax",
+          "focus=AHS",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 90,
+        "metric_label": "PT AHS Ax",
+        "category": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__of_Total_Ax_AHS__focus_AHS__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > % of Total Ax (AHS) > focus=AHS > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "% of Total Ax (AHS)",
+          "focus=AHS",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 91,
+        "metric_label": "% of Total Ax (AHS)",
+        "category": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_AHS_Tx_Total__focus_AHS__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > PT AHS Tx (Total) > focus=AHS > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT AHS Tx (Total)",
+          "focus=AHS",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 92,
+        "metric_label": "PT AHS Tx (Total)",
+        "category": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_AHS_Ax_Hip_Knee_Class__focus_AHS__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > PT AHS Ax (Hip&Knee Class) > focus=AHS > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT AHS Ax (Hip&Knee Class)",
+          "focus=AHS",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 93,
+        "metric_label": "PT AHS Ax (Hip&Knee Class)",
+        "category": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_AHS_Tx_Hip_Knee_Class__focus_AHS__source_EMR__role_J__Target__426",
+        "display_name": "PHONE PERFORMANCE > PT AHS Tx (Hip&Knee Class) > focus=AHS > source=EMR > role=J > Target > 426",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT AHS Tx (Hip&Knee Class)",
+          "focus=AHS",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "426"
+        ],
+        "source_column_index": 94,
+        "metric_label": "PT AHS Tx (Hip&Knee Class)",
+        "category": null,
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PVA_4_wk_avg__focus_Commitment__source_Formula__role_J__Target__213",
+        "display_name": "PHONE PERFORMANCE > PVA (4 wk avg) > focus=Commitment > source=Formula > role=J > Target > 213",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PVA (4 wk avg)",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "213"
+        ],
+        "source_column_index": 95,
+        "metric_label": "PVA (4 wk avg)",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "213"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Total_Available_Hours_Total__focus_Caseload__source_EMR__role_J__Target__Single_2_hr_Team_4_hr",
+        "display_name": "PHONE PERFORMANCE > PT Total Available Hours (Total) > focus=Caseload > source=EMR > role=J > Target > Single (2/hr) Team (4/hr )",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Total Available Hours (Total)",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ],
+        "source_column_index": 97,
+        "metric_label": "PT Total Available Hours (Total)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Total_Available_Hours_PT_only__focus_Caseload__source_EMR__role_J__Target__Single_2_hr_Team_4_hr",
+        "display_name": "PHONE PERFORMANCE > PT Total Available Hours (PT only) > focus=Caseload > source=EMR > role=J > Target > Single (2/hr) Team (4/hr )",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Total Available Hours (PT only)",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ],
+        "source_column_index": 98,
+        "metric_label": "PT Total Available Hours (PT only)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Total_BOOKED_hours__focus_Caseload__source_EMR__role_J__Target__Single_2_hr_Team_4_hr",
+        "display_name": "PHONE PERFORMANCE > PT Total BOOKED hours > focus=Caseload > source=EMR > role=J > Target > Single (2/hr) Team (4/hr )",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Total BOOKED hours",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ],
+        "source_column_index": 99,
+        "metric_label": "PT Total BOOKED hours",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_Arrived_appts__focus_Caseload__source_EMR__role_J__Target__Single_2_hr_Team_4_hr",
+        "display_name": "PHONE PERFORMANCE > PT Arrived appts > focus=Caseload > source=EMR > role=J > Target > Single (2/hr) Team (4/hr )",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT Arrived appts",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ],
+        "source_column_index": 100,
+        "metric_label": "PT Arrived appts",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Utilization_With_Kines__focus_Caseload__source_Formula__role_J__Target__Target_60",
+        "display_name": "PHONE PERFORMANCE > Utilization (With Kines) > focus=Caseload > source=Formula > role=J > Target > Target = 60%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Utilization (With Kines)",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 60%"
+        ],
+        "source_column_index": 101,
+        "metric_label": "Utilization (With Kines)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Utilization_Without_Kines__focus_Caseload__source_Formula__role_J__Target__Target_60",
+        "display_name": "PHONE PERFORMANCE > Utilization (Without Kines) > focus=Caseload > source=Formula > role=J > Target > Target = 60%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Utilization (Without Kines)",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 60%"
+        ],
+        "source_column_index": 102,
+        "metric_label": "Utilization (Without Kines)",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PT_TP_Given__focus_Caseload__source_Formula__role_J__Target__Target_60",
+        "display_name": "PHONE PERFORMANCE > PT TP Given > focus=Caseload > source=Formula > role=J > Target > Target = 60%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PT TP Given",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 60%"
+        ],
+        "source_column_index": 103,
+        "metric_label": "PT TP Given",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__TP_Utilization__focus_Caseload__source_Formula__role_J__Target__Target_60",
+        "display_name": "PHONE PERFORMANCE > TP Utilization > focus=Caseload > source=Formula > role=J > Target > Target = 60%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "TP Utilization",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 60%"
+        ],
+        "source_column_index": 104,
+        "metric_label": "TP Utilization",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_Total_Revenue__focus_Financial__source_EMR__role_J__Target__Target_60",
+        "display_name": "PHONE PERFORMANCE > RMT Total Revenue > focus=Financial > source=EMR > role=J > Target > Target = 60%",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT Total Revenue",
+          "focus=Financial",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Target = 60%"
+        ],
+        "source_column_index": 106,
+        "metric_label": "RMT Total Revenue",
+        "category": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_Ax__focus_Marketing__source_EMR__role_J__Target__3062_5",
+        "display_name": "PHONE PERFORMANCE > RMT Ax > focus=Marketing > source=EMR > role=J > Target > 3062.5",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT Ax",
+          "focus=Marketing",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "3062.5"
+        ],
+        "source_column_index": 107,
+        "metric_label": "RMT Ax",
+        "category": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_Tx__focus_Commitment__source_EMR__role_J__Target__3062_5",
+        "display_name": "PHONE PERFORMANCE > RMT Tx > focus=Commitment > source=EMR > role=J > Target > 3062.5",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT Tx",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "3062.5"
+        ],
+        "source_column_index": 108,
+        "metric_label": "RMT Tx",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PVA_4_wk_avg__focus_Commitment__source_Formula__role_J__Target__3062_5",
+        "display_name": "PHONE PERFORMANCE > PVA (4 wk avg) > focus=Commitment > source=Formula > role=J > Target > 3062.5",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PVA (4 wk avg)",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "3062.5"
+        ],
+        "source_column_index": 109,
+        "metric_label": "PVA (4 wk avg)_2",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_Hours_Available__focus_Caseload__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > RMT Hours Available > focus=Caseload > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT Hours Available",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 111,
+        "metric_label": "RMT Hours Available",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_BOOKED_hours__focus_Caseload__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > RMT BOOKED hours > focus=Caseload > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT BOOKED hours",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 112,
+        "metric_label": "RMT BOOKED hours",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_Arrived_slots__focus_Commitment__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > RMT Arrived slots > focus=Commitment > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT Arrived slots",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 113,
+        "metric_label": "RMT Arrived slots",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Utilization__focus_Caseload__source_Formula__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > Utilization > focus=Caseload > source=Formula > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Utilization",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 114,
+        "metric_label": "Utilization",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__RMT_TP_Given__focus_Caseload__source_Formula__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > RMT TP Given > focus=Caseload > source=Formula > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "RMT TP Given",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 115,
+        "metric_label": "RMT TP Given",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__TP_Utilization__focus_Caseload__source_Formula__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > TP Utilization > focus=Caseload > source=Formula > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "TP Utilization",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 116,
+        "metric_label": "TP Utilization_2",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__CHIRO_Total_Revenue__focus_Financial__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > CHIRO Total Revenue > focus=Financial > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "CHIRO Total Revenue",
+          "focus=Financial",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 118,
+        "metric_label": "CHIRO Total Revenue",
+        "category": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__CHIRO_Ax__focus_Marketing__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > CHIRO Ax > focus=Marketing > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "CHIRO Ax",
+          "focus=Marketing",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 119,
+        "metric_label": "CHIRO Ax",
+        "category": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__CHIRO_Tx__focus_Commitment__source_EMR__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > CHIRO Tx > focus=Commitment > source=EMR > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "CHIRO Tx",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 120,
+        "metric_label": "CHIRO Tx",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PVA_4_wk_avg__focus_Commitment__source_Formula__role_J__Target__Total_Available_32",
+        "display_name": "PHONE PERFORMANCE > PVA (4 wk avg) > focus=Commitment > source=Formula > role=J > Target > Total Available = 32",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PVA (4 wk avg)",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 32"
+        ],
+        "source_column_index": 121,
+        "metric_label": "PVA (4 wk avg)_3",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Chiro_Hours_Available__focus_Caseload__source_EMR__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > Chiro Hours Available > focus=Caseload > source=EMR > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Chiro Hours Available",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 123,
+        "metric_label": "Chiro Hours Available",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Chiro_BOOKED_hours__focus_Caseload__source_EMR__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > Chiro BOOKED hours > focus=Caseload > source=EMR > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Chiro BOOKED hours",
+          "focus=Caseload",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 124,
+        "metric_label": "Chiro BOOKED hours",
+        "category": null,
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__CHIRO_Arrived_slots__focus_Commitment__source_EMR__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > CHIRO Arrived slots > focus=Commitment > source=EMR > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "CHIRO Arrived slots",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 125,
+        "metric_label": "CHIRO Arrived slots",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Utilization__focus_Caseload__source_Formula__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > Utilization > focus=Caseload > source=Formula > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Utilization",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 126,
+        "metric_label": "Utilization_2",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__CHIRO_TP_Given__focus_Caseload__source_Formula__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > CHIRO TP Given > focus=Caseload > source=Formula > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "CHIRO TP Given",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 127,
+        "metric_label": "CHIRO TP Given",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__TP_Utilization__focus_Caseload__source_Formula__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > TP Utilization > focus=Caseload > source=Formula > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "TP Utilization",
+          "focus=Caseload",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 128,
+        "metric_label": "TP Utilization_3",
+        "category": null,
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Pelvic_Health_Total_Revenue__focus_Financial__source_EMR__role_J__Target__Total_Available_34",
+        "display_name": "PHONE PERFORMANCE > Pelvic Health Total Revenue > focus=Financial > source=EMR > role=J > Target > Total Available = 34",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Pelvic Health Total Revenue",
+          "focus=Financial",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Total Available = 34"
+        ],
+        "source_column_index": 130,
+        "metric_label": "Pelvic Health Total Revenue",
+        "category": null,
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Pelvic_Health_Ax__focus_Marketing__source_EMR__role_J__Target__Target_1",
+        "display_name": "PHONE PERFORMANCE > Pelvic Health Ax > focus=Marketing > source=EMR > role=J > Target > Target = 1",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Pelvic Health Ax",
+          "focus=Marketing",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Target = 1"
+        ],
+        "source_column_index": 131,
+        "metric_label": "Pelvic Health Ax",
+        "category": null,
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Pelvic_Health_Tx__focus_Commitment__source_EMR__role_J__Target__Target_1",
+        "display_name": "PHONE PERFORMANCE > Pelvic Health Tx > focus=Commitment > source=EMR > role=J > Target > Target = 1",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Pelvic Health Tx",
+          "focus=Commitment",
+          "source=EMR",
+          "role=J",
+          "Target",
+          "Target = 1"
+        ],
+        "source_column_index": 132,
+        "metric_label": "Pelvic Health Tx",
+        "category": null,
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__PVA_4_wk_avg__focus_Commitment__source_Formula__role_J__Target__Target_1",
+        "display_name": "PHONE PERFORMANCE > PVA (4 wk avg) > focus=Commitment > source=Formula > role=J > Target > Target = 1",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "PVA (4 wk avg)",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 1"
+        ],
+        "source_column_index": 133,
+        "metric_label": "PVA (4 wk avg)_4",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__True_PVA_Average__focus_Commitment__source_Formula__role_J__Target__Target_1",
+        "display_name": "PHONE PERFORMANCE > True PVA Average > focus=Commitment > source=Formula > role=J > Target > Target = 1",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "True PVA Average",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 1"
+        ],
+        "source_column_index": 135,
+        "metric_label": "True PVA Average",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      {
+        "field_name": "PHONE_PERFORMANCE__Utilization__focus_Commitment__source_Formula__role_J__Target__Target_1",
+        "display_name": "PHONE PERFORMANCE > Utilization > focus=Commitment > source=Formula > role=J > Target > Target = 1",
+        "header_path": [
+          "PHONE PERFORMANCE",
+          "Utilization",
+          "focus=Commitment",
+          "source=Formula",
+          "role=J",
+          "Target",
+          "Target = 1"
+        ],
+        "source_column_index": 136,
+        "metric_label": "Utilization_3",
+        "category": null,
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      }
+    ],
+    "metric_metadata": {
+      "Date": {
+        "focus": null,
+        "source": null,
+        "role": null
+      },
+      "Total Revenue - All Services": {
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Total Payments - All Services": {
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Revenue Collected (4 wk avg)": {
+        "focus": "Collection",
+        "source": "Ratio",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "AR > 90 days": {
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Total AR": {
+        "focus": "Collection",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Online Bookings Via Jane": {
+        "focus": "Bookings",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Total Ax - All Services": {
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Ax 4 Week Avg": {
+        "focus": "Marketing",
+        "source": "GS",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "# of Rx (Clinic Wide)": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Clinic PVA": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "CROSS REFERRAL AX (Total)": {
+        "focus": "Caseload",
+        "source": "NAR",
+        "role": "Nicole",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Submitted": {
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Unsubmitted": {
+        "focus": "Treatment Plan",
+        "source": "Jane",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Cancelled Total Ax": {
+        "focus": "New Clients",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Cancelled Ax (Online)": {
+        "focus": "Online",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Cancelled Ax Online %": {
+        "focus": "Online",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Cancellation %": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "# of Fall Offs (Total)": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "FB Reviews": {
+        "focus": "Marketing",
+        "source": "Facebook",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Google Reviews": {
+        "focus": "Marketing",
+        "source": "Google",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Total Calls (5530)": {
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Missed Calls": {
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Answer Rate": {
+        "focus": "Answer",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Booking Rate": {
+        "focus": "Book",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "NBO": {
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "DNB": {
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "Winback (Ax Only)": {
+        "focus": "Phone",
+        "source": "CallHero",
+        "role": "J",
+        "category": "PHONE PERFORMANCE",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "NAR Collected at Ax": {
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target"
+        ]
+      },
+      "NAR % Collected at Ax": {
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "100% Target"
+        ]
+      },
+      "Average Prescribed": {
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "100% Target"
+        ]
+      },
+      "Booked:Prescribed % (Total)": {
+        "focus": "Tx Plan",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 75%"
+        ]
+      },
+      "# of Tx Plan Given": {
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 75%"
+        ]
+      },
+      "% Tx Plan Used": {
+        "focus": "Tx Plan",
+        "source": "NAR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 80%"
+        ]
+      },
+      "PT Total Revenue": {
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 80%"
+        ]
+      },
+      "PT Ax": {
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Formula"
+        ]
+      },
+      "PT Tx": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "PT AHS Ax": {
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "% of Total Ax (AHS)": {
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "PT AHS Tx (Total)": {
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "PT AHS Ax (Hip&Knee Class)": {
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "PT AHS Tx (Hip&Knee Class)": {
+        "focus": "AHS",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "426"
+        ]
+      },
+      "PVA (4 wk avg)": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "213"
+        ]
+      },
+      "PT Total Available Hours (Total)": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      "PT Total Available Hours (PT only)": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      "PT Total BOOKED hours": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      "PT Arrived appts": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Single (2/hr) Team (4/hr )"
+        ]
+      },
+      "Utilization (With Kines)": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      "Utilization (Without Kines)": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      "PT TP Given": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      "TP Utilization": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      "RMT Total Revenue": {
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 60%"
+        ]
+      },
+      "RMT Ax": {
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      "RMT Tx": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      "PVA (4 wk avg)_2": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "3062.5"
+        ]
+      },
+      "RMT Hours Available": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "RMT BOOKED hours": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "RMT Arrived slots": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "Utilization": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "RMT TP Given": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "TP Utilization_2": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "CHIRO Total Revenue": {
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "CHIRO Ax": {
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "CHIRO Tx": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "PVA (4 wk avg)_3": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 32"
+        ]
+      },
+      "Chiro Hours Available": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "Chiro BOOKED hours": {
+        "focus": "Caseload",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "CHIRO Arrived slots": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "Utilization_2": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "CHIRO TP Given": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "TP Utilization_3": {
+        "focus": "Caseload",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "Pelvic Health Total Revenue": {
+        "focus": "Financial",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Total Available = 34"
+        ]
+      },
+      "Pelvic Health Ax": {
+        "focus": "Marketing",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      "Pelvic Health Tx": {
+        "focus": "Commitment",
+        "source": "EMR",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      "PVA (4 wk avg)_4": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      "True PVA Average": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      },
+      "Utilization_3": {
+        "focus": "Commitment",
+        "source": "Formula",
+        "role": "J",
+        "qualifiers": [
+          "Target",
+          "Target = 1"
+        ]
+      }
+    }
+  }
+}
